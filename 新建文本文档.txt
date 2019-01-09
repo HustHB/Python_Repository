@@ -1,0 +1,15 @@
+按钮添加图片：https://blog.csdn.net/lbb2016/article/details/52675773
+综合教程(含鼠标移到按钮上的提示)：http://www.cnblogs.com/archisama/p/5444032.html
+新手pyqt5初步安装，及用python运行qt designer生成的UI代码：https://blog.csdn.net/haha1fan/article/details/55098127
+PyQT5实例 【2】 桌面LCD电子时钟：https://blog.csdn.net/CreatorGG/article/details/81546313
+综合游戏设置表例子：https://blog.csdn.net/LG1259156776/article/details/52653090
+二级弹窗：https://segmentfault.com/q/1010000005676597
+PyQt5基本控件详解之QLineEdit：https://blog.csdn.net/jia666666/article/details/81510502
+PyQt5学习笔记16----PyQt信号和槽传递额外参数：https://blog.csdn.net/a359680405/article/details/45246605
+PyQt5进阶（二）——多线程：QTimer 和多线程模块QThread：https://blog.csdn.net/qq_34710142/article/details/80913448
+PyQt5中的事件和信号（emit和pyqtSignal()）：http://www.cnblogs.com/archisama/p/5454200.html
+多线程解决计时时其他事件发生后，计时暂停：https://www.cnblogs.com/hhh5460/p/5175322.html
+播放器设计：https://zmister.com/archives/477.html
+Python3结合PyQt5实现自定义按钮设置背景：https://blog.csdn.net/Szh19960807/article/details/80149248
+PyQt5图形和特效之加载QSS（十）：https://blog.csdn.net/jia666666/article/details/81875622
+self.setStyleSheet('QDialog{border-image:url('+ui.pushButton_2.fileName+')}')
